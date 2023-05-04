@@ -1,6 +1,12 @@
 # 🖼 KREAM
 <img src="public/images/kream_demo.png" width=800 alt="kream_demo_image">
 
+<br/>
+
+## <strong>프로젝트 서버 URL</strong> 
+
+<a href="http://43.200.202.87/">Kream 바로가기</a>
+
 ## <strong>Installation</strong>
 
 ```
@@ -65,6 +71,7 @@ npm start
 - 관심상품
 
 ## <strong>리펙토링 예정(코드 및 버그 수정)</strong>
+- 2023.05.04 버그 수정 Fix
 
 ## <strong>담당한 파트(Front-End)</strong>
 
@@ -80,6 +87,8 @@ npm start
   - 검색
   - My
     - 내정보
+
+
 
 ## <strong>프로젝트를 진행하면서 어려웠던점</strong>
   - 윤현호
